@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Take 2"
+date: 2018-12-13
+author: Marcus 
+tags:
+  - 
+category: blog
+blog: true
+---
+
+This is probably going to take 3 full weeks to setup properly.
